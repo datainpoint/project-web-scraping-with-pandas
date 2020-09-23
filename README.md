@@ -2,7 +2,7 @@
 
 > 使用 Python 定義一個 SimpleCalculator 類別。
 
-點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-python-data-toolkit-glimpse/master?filepath=project-simple-calculator.ipynb)
+點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-simple-calculator/master?filepath=project-simple-calculator.ipynb)
 
 ## 標籤
 
