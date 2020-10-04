@@ -2,7 +2,7 @@
 
 > 從第一支柱：封裝（Encapsulation）談起。
 
-點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-oop-encapsulation/master?filepath=project-simple-calculator.ipynb)
+點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-oop-encapsulation/master?filepath=project-oop-encapsulation.ipynb)
 
 ## 標籤
 
