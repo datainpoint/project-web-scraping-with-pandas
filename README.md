@@ -2,7 +2,7 @@
 
 > 以 pd.read_html 讀取 HTML 文件中的 <table\></table\> 資料。
 
-點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)]()
+點擊圖示啟動專案 [![Binder](https://mybinder.org/badge_logo.svg)](https://mybinder.org/v2/gh/datainpoint/project-web-scraping-with-pandas/master?filepath=project-web-scraping-with-pandas.ipynb)
 
 ## 標籤
 
